@@ -20,3 +20,9 @@ The chronothermostat will have an PID controller that will receive temperature f
 
 More details on myblog myesp8266.blogspot.com
 
+https://www.youtube.com/watch?v=vmFylHQmATc
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vmFylHQmATc
+" target="_blank"><img src="http://img.youtube.com/vi/vmFylHQmATc/1.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
